@@ -1,0 +1,23 @@
+.DS_Store
+dist/electron/*
+dist/web/*
+build/*
+!build/icons
+coverage
+node_modules/
+thumbs.db
+!.gitkeep
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
